@@ -1,0 +1,20 @@
+h3{
+    color: coral;
+    background-color:mintcream;
+}
+p{
+    color:rgb(80, 20, 10);
+    margin: 10px;
+}
+#header{
+    color:rgb(78, 6, 6);
+    margin: 10px;
+}
+p.introduction{
+    color: rgb(80, 20, 10);
+    margin: 15px;
+}
+h3{
+    color: rgb(80, 20, 10);
+    margin: 10px;
+}
